@@ -1,3 +1,3 @@
 rootProject.name = 'Software-Security'
 
-include "Lab-1-via-Kotlin"
+include 'Lab-1-via-Kotlin'
